@@ -26,3 +26,14 @@ Today I learned:
 - assignment operators
 - logical operators
 - == vs ===
+
+Operator	Meaning
+=	assign value
+==	loose comparison
+===	strict comparison (BEST)
+
+# Conditions
+- if
+- else
+- else if
+- logical operators in conditions
