@@ -37,3 +37,10 @@ Operator	Meaning
 - else
 - else if
 - logical operators in conditions
+
+# Loops
+- for loop
+- while loop
+- do while loop
+- for...of loop
+- looping arrays
