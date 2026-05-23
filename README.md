@@ -50,3 +50,17 @@ Operator	Meaning
 - parameters
 - return values
 - reusable code blocks
+
+# JavaScript Array Methods
+
+Today I learned:
+- forEach()
+- map()
+- filter()
+- find()
+
+-Method	What it does
+-forEach()	loops
+-map()	    transforms
+-filter()	removes unwanted
+-find()	    gets one item
