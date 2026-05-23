@@ -71,3 +71,10 @@ Today I learned:
 - accessing object properties
 - modifying objects
 - object methods
+
+# JavaScript Scope
+
+- global scope
+- local scope
+- block scope
+- let vs var
