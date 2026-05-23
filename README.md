@@ -64,3 +64,10 @@ Today I learned:
 -map()	    transforms
 -filter()	removes unwanted
 -find()	    gets one item
+
+# Objects
+Today I learned:
+- creating objects
+- accessing object properties
+- modifying objects
+- object methods
