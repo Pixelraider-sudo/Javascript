@@ -44,3 +44,9 @@ Operator	Meaning
 - do while loop
 - for...of loop
 - looping arrays
+
+# Functions
+- basic functions
+- parameters
+- return values
+- reusable code blocks
