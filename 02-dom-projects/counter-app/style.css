@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #5b1a1a;
+  color: white;
+}
+
+.container {
+  text-align: center;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 20px;
+}

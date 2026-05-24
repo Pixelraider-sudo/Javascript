@@ -85,3 +85,16 @@ Today I learned:
 - getElementById()
 - addEventListener()
 - textContent
+
+# Counter App
+
+Today I built:
+- increase counter
+- decrease counter
+- reset counter
+
+Concepts practiced:
+- DOM manipulation
+- onclick events
+- textContent
+- state management
