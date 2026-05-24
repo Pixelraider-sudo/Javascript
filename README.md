@@ -78,3 +78,10 @@ Today I learned:
 - local scope
 - block scope
 - let vs var
+
+# DOM Manipulation Intro
+
+- document
+- getElementById()
+- addEventListener()
+- textContent
