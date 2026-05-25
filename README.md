@@ -111,3 +111,15 @@ Concepts practiced:
 - arrays
 - DOM manipulation
 - styling with JavaScript
+
+# Digital Clock
+
+Today I built:
+- a live digital clock
+- real-time updates with JavaScript
+
+Concepts practiced:
+- Date object
+- setInterval()
+- DOM updates
+- time formatting
