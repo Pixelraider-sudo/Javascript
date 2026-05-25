@@ -98,3 +98,16 @@ Concepts practiced:
 - onclick events
 - textContent
 - state management
+
+# Random Color Generator
+
+Today I built:
+- a random color generator
+- dynamic background changes
+- random array selection
+
+Concepts practiced:
+- Math.random()
+- arrays
+- DOM manipulation
+- styling with JavaScript
