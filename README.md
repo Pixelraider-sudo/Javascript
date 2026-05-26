@@ -154,3 +154,15 @@ Concepts practiced:
 - dynamic styling
 - event handling
 
+# Password Generator
+
+Today I built:
+- a random password generator
+- dynamic password rendering
+- random character selection
+
+Concepts practiced:
+- loops
+- string building
+- randomness
+- DOM manipulation
