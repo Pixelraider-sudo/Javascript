@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #111;
+  color: white;
+  font-family: Arial;
+}
+
+.container {
+  text-align: center;
+  width: 60%;
+}
+
+#quote1,
+#author1 {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 18px;
+}
+#quote1 {
+  transition: 0.4s;
+}
+#author1 {
+  transition: 0.4s;
+}
