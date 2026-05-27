@@ -157,11 +157,13 @@ Concepts practiced:
 # Password Generator
 
 Today I built:
+
 - a random password generator
 - dynamic password rendering
 - random character selection
 
 Concepts practiced:
+
 - loops
 - string building
 - randomness
@@ -170,12 +172,14 @@ Concepts practiced:
 # Calculator App
 
 Today I built:
+
 - a working calculator
 - dynamic button interactions
 - expression evaluation
 - backspace functionality
 
 Concepts practiced:
+
 - querySelectorAll()
 - forEach()
 - app state
@@ -183,3 +187,18 @@ Concepts practiced:
 - eval()
 - slice()
 
+# BMI Calculator
+
+Today I built:
+
+- a BMI calculator
+- dynamic BMI feedback
+- user input handling
+
+Concepts practiced:
+
+- parseFloat()
+- input values
+- calculations
+- conditions
+- DOM manipulation
