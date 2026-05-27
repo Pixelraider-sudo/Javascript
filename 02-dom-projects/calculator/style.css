@@ -43,5 +43,7 @@ button {
   font-style: normal;
 }
 button:hover {
-  background: #df4747;
+  background: #555;
+  color: white;
+  transform: scale(1.05);
 }

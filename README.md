@@ -166,3 +166,20 @@ Concepts practiced:
 - string building
 - randomness
 - DOM manipulation
+
+# Calculator App
+
+Today I built:
+- a working calculator
+- dynamic button interactions
+- expression evaluation
+- backspace functionality
+
+Concepts practiced:
+- querySelectorAll()
+- forEach()
+- app state
+- DOM manipulation
+- eval()
+- slice()
+
