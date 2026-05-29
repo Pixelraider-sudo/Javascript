@@ -202,3 +202,16 @@ Concepts practiced:
 - calculations
 - conditions
 - DOM manipulation
+
+# Tip Calculator
+
+Today I built:
+- a tip calculator
+- dynamic total calculations
+- multi-input handling
+
+Concepts practiced:
+- parseFloat()
+- percentage calculations
+- DOM manipulation
+- dynamic rendering
