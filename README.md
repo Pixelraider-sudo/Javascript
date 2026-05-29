@@ -215,3 +215,7 @@ Concepts practiced:
 - percentage calculations
 - DOM manipulation
 - dynamic rendering
+
+# temperature converter
+
+-learned select.value for the drop down 
