@@ -1,4 +1,4 @@
-# Javascript
+<!-- # Javascript
 
 # Variables
 
@@ -218,4 +218,4 @@ Concepts practiced:
 
 # temperature converter
 
--learned select.value for the drop down 
+-learned select.value for the drop down  -->
