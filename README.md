@@ -232,3 +232,7 @@ Concepts practiced:
 - getFullYear()
 - calculations
 - DOM manipulation
+
+# charcter counter 
+
+ -learnt oninput function 
