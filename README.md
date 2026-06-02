@@ -1,4 +1,4 @@
-<!-- # Javascript
+# Javascript
 
 # Variables
 
@@ -218,4 +218,17 @@ Concepts practiced:
 
 # temperature converter
 
--learned select.value for the drop down  -->
+-learned select.value for the drop down 
+
+# Age Calculator
+
+Today I built:
+- an age calculator
+- dynamic date calculations
+- user date input handling
+
+Concepts practiced:
+- Date objects
+- getFullYear()
+- calculations
+- DOM manipulation
